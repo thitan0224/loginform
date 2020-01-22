@@ -1,0 +1,77 @@
+#container {
+    width: 600px;
+    height: 500px;
+    background: white;
+    top: 50%;
+    left: 50%;
+    position: absolute;
+    transform: translate(-50%, -50%);
+    box-sizing: border-box;
+}
+img {
+	margin-top: 25px;
+	display: inline-block;
+	margin-left: -300px;
+}
+#st {
+	position: absolute;
+	top: 33px;
+	font-size: 24px;
+	font-weight: bold;
+    left: 225px;
+}
+#ph {
+    position: absolute;
+    top: 70px;
+    left: 238px;
+
+}
+hr {
+	margin-top: -55px;	
+	width: 260px;
+	margin-right: 110px;
+}
+#ac {
+    font-size: 20px;
+    font-weight: bold;
+    position: absolute;
+    top: 142px;
+    left: 120px;
+}
+#login-box {
+    width: 350px;
+    height: 250px;
+    background-color: #A6DA99;
+    position: absolute;
+    top: 185px;
+    left: 132px;
+}
+.pad {
+    padding: 5px 7px;
+    width: 250px;
+}
+a {
+    color: #413D3C;
+}
+#forg {
+    position: absolute;
+    top: 142px;
+}
+#rem {
+    position: absolute;
+    left: 16px;
+    top: 142px;
+}
+#me {
+    position: absolute;
+    left: 36px;
+    top: 142px;
+}
+button {
+    border: 0;
+    width: 100px;
+    height: 30px;
+    position: absolute;
+    left: 124px;
+    top: 188px;
+}
